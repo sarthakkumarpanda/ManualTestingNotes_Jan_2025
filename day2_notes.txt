@@ -1,0 +1,157 @@
+1. We created a GitHub account
+2. Then we downloaded and installed Git in our laptops(MacBook or Windows)
+
+3. What is difference between Git and GitHub ????
+
+Floppy Disk - 3.2 mb
+Compact Disk (Moserbaer) - 700 mb size
+DVD - 3.5 to 4.0 GB
+pen drive
+External Hard Disk
+HDD
+SSD
+
+
+1994 
+2 mb RAM
+64mb hard disk
+
+1998 - Compaq Presario
+
+C++ - I used to save it in a floppy disk
+friend's place. Insert the floppy disk and let him take the programs
+3rd friend
+4th friend
+
+
+Manual Testing Team 
+Automation Testing Team
+Database Testing
+Performance Testing
+Security Testing
+
+One Testing team and there are different testers in the same team
+
+California - he is more like an Automation Architect[overlooks everything]
+India - They are more into Backend Testing [database + Automation]
+Virginia - They are more into FrontEnd Testing [Web Application]
+
+T1, T2, T3, T4, T5 - they all write automation code
+
+T1 + T2 + T3 + T4 + T5 = will be the final code
+in versions, in small incremental patterns
+
+T1 - he designed the first code. And he wrote the code and told others ok I have written the code
+Take copy of this code and on top of it, include your areas of functionality and merge your areas with the original code
+
+T1 - original code V1.0 after 2 years will this remain 1.0
+T2 - will take
+T3 - will take
+T4 - will take
+T5 - will take
+
+T2 is working on Login scenario
+T3 is working on Register scenario
+T4 is working on Product Scenario
+T5 is working on Addtocart Scenario
+
+T1 + T2(Login) = 
+T1 + T3(Register) = 
+T1 + T4(Product) = 
+T1 + T5(AddtoCart) =
+
+20 ??
+
+dvd
+pendrive
+Email in outlook
+external hard disk 
+
+SDLC - Software Development Life Cycle
+> A structured process used to develop high quality software
+> It provides a systematic approach to planning, creating, testing and deploying software
+
+Amazon wants something. So they kept open invitation to various software companies who want this project.
+Amazon asked to upload a presentation. And if the presentation is impressive they will give an opportunity to meet
+Lets' say your company won the contract.
+10mn dollars/year
+5 years = 50mn dollars
+
+Phases of SDLC
+1. Requirement Gathering and Analysis
+   Objective: Understand the client's needs and document them
+   Outcome: Requirement Specification Document [BRD, SRS]
+
+2. Planning
+   Objective: Define project scope, resources, cost and timeline
+   Outcome: Project plan, Risk Management Plan
+
+3. System Design
+   Objective: Architect the system by designing its structure, components and user interface
+   Outcome: High Level Design and Low Level Design
+
+4. Implementation(Coding)
+   Objective: Covert the design to actual code
+   Outcome: Source Code
+
+5. Testing
+   Objective: Verify that the software meets the requirements and is free of bugs
+   Outcome: Tested and validated software
+
+6. Deployment 
+   Objective: Deliver the software to the client or release it to production
+   Outcome: Deployed software
+
+7. Maintenance
+   Objective: Provide update, fix bugs and in case there is certain enhancements[change the cents price last digit from 9 to 1]
+   Outcome: Stable, updated software over a period of time
+---------------------------------------------------------------------------------------------------------------------------------
+
+How do we implement SDLC ?
+Ans: By implementing business methodologies
+    
+     Waterfall Model 
+
+Advantages of WaterFall model
+> Quality of the product will be very good
+> Since requirement changes are not allowed, the chances of finding bugs are less.
+> Initial investment is less since the testers are hired at later stages
+> Preferred for smaller projects when requirements are completely signed off and freezed.
+
+
+Disadvantages of Waterfall model
+> Requirement changes are not allowed. So technically there is no room for compartmentalization.
+> In the 1st stage there was a defect which could not be detected. Then this defect will be carry forwarded
+> If there is a problem, cost of fix is much higher
+> Testing can only start after coding is over.
+
+Spiral Model - homework (Guru99 website)
+Iterative Model - homework
+V - Model
+Agile Model
+
+2007 Accenture [V model]
+
+
+
+
+
+                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

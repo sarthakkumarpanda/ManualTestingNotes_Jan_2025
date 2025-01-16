@@ -1,0 +1,28 @@
+In your local create a directory(folder)
+Add 5 files in that directory
+Go to GitHub.com and create one more repository
+
+make sure all the 5 files go in that repository
+
+git status
+git init
+git status
+git add -A
+git status
+git commit -m "Pushing 5 files"
+git remote add origin SSH___________________
+git push -u origin master
+
+--------------------------------------------------------
+
+in the cloud, select 2 files and edit something in them and commit those change inside the cloud itself
+
+then pull the updated files into your local
+
+then in your local go ahead and do changes in some more files
+
+add only the updated changes to the staging area using git add .
+
+then commit those changes using the command git commit -m "Whatever changes"
+
+then push the changes back to cloud and go and check in the cloud whether the changes are implemented or not

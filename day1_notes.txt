@@ -1,0 +1,277 @@
+1. Have a structured approach - maintaining a proper timeline and maintaining proper notes[folder structures in your laptop]
+
+College student - attending classes
+1,2,3 - notes/recordings that you have
+4,5,6 - you expect to get the notes from your friends / watch the recording later
+7,8,9 - if you have not watched 4,5,6 then 7,8,9 will sound difficult and you will lose interest
+
+
+2. Recorded sessions from our end. I will teach you how to record in your own laptops and not be dependent on PnT to send you the recording.
+
+3. I will give you basic assignments in the beginning. Some will be homework as well. 
+
+4. Ask any questions you have. It might the most stupidest of doubts.
+doubt creeps in
+that concept might be applicable in the next topic
+more questions / more doubts - lose interest 
+
+5. Email panda@piit.us
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+SDET [Software Developer Engineer in Test]
+Automation Tester
+QA(Quality Assurance) Automation Engineer
+
+
+Developers - they write code to develop an application
+Automation Testers/ SDET / QA Automation Engineer / QA Engineer - they write code the test the developed application
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Manual Testing / SQL / JIRA with Zephyr Scale
+
+Java (programming language) with Selenium(Automation Suite) - this you have to learn and code
+
+Python (programming language) with Selenium (Automation Suite) - this you have to learn and code
+API (based on Java)
+Git and GitHub
+Jenkins
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Early 2000's upto 2010 - Manual Testing / SQL (good enough to get you a job)
+Automation - Java with Selenium (upto 2017)
+API automation
+Python automation
+
+
+Costco
+Excel sheet - which has 50000 usernames and passwords along with the details of those 50000 customers
+pro AI
+anti AI
+
+I am stuck in this. Can you give me a suggestion how to write this code.
+
+Aug 2007 - Accenture (as a fresher) - 17,239 INR [344$ per month]
+Mar 2011 - NESS 
+Sep 2012 - Exilant
+Cisco
+EY
+Gcube
+NuWave
+Philips
+Startup - which did not do well
+July 2021 - Wipro Dec 2021 - Wipro
+Dec 2021 - my Master's 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Stepping Stone to go into IT industry
+
+you are very hungry. There is a hot plate of food in front of you.
+do you dip finger in the hottest center point of the plate ??
+scratch from the sides ?
+
+Machine Learning and AI Engineer - get a job
+15 years experience. She resigned from her job. She studied for ML and AI for 1 year. 
+4 months to find a job as an ML/AI engineer - 450k
+
+Facebook Meta - job opening [1.7 mn $]
+20 years of experience
+
+Knowledge is strong
+Experience is weak
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Windows
+
+Ctrl+Shift+N 
+
+MacBook - Cmmand + Shift + N
+
+Magnifying Glass - it is known as Spotlight Search. Just type Active. Hit Enter
+
+please download Goto meeting app and do not open in a browser
+
+
+10:00 pm
+--------------------------------------------------------------------------------------------------------------------
+
+Sharing - will not be via email, will not be in Google Drive, will not be in any form of external pendrive, harddisk
+Everything will be via cloud
+--------------------------------------------------------------------------------------------------------------------
+
+in search of Amazon you type Dell Laptop and hit enter
+
+but in the results you only see HP laptops - is this a defect or not  ?
+
+Search algorithm should be working fine
+
+Sorted as low price to high price but just imagine if it shows results in an opposite way
+so I am checking the sorting algorithm is working fine
+60$
+100$
+.
+.
+.
+.
+.
+.
+5000$
+
+you are also checking the Search algorithm is working fine. Opening in a new browser or a new type for a particular product is working fine
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Software Company - you have a strong business team, you have a strong leadership management, you have strong development team, you have strong testing team, you have a strong support team
+
+you won a bid from Amazon / BestBuy or Costco or Tesla - they are trying to outsource their projects
+
+A contract will be signed - 5 years
+We need this software and we need it in this particular fashion
+
+Need to understand what Amazon wants as a customer as a client
+You as a vendor who is giving service to Amazon needs to make sure that the product delivered is upto Amazon standards
+
+your development team might be superman team - they are very good. Does that mean u will not Test ???
+
+Developers - if something goes wrong ??? they will say testing team did not test properly else we would have fixed it. So they will put the blame on you
+
+Estimation of time, productivity, balance, delivery, possibility, feasibility
+how much to test
+what to test
+when to test
+
+------------------------------------------------------------------------------------------------------------
+
+
+Version 1.0 has to go live by 1st August 2025
+Client said they will tolerate 1% of defects - should not be a very big defect, minor or cosmetic defect
+Every 2 weeks we will need update of what is happening
+
+Vendor will need to give updates to your client about the progress of the work every 2 weeks (Development or the Testing side)
+
+Software Methodologies
+
+Green Apples 
+you cannot deliver Yellow Apples
+
+Developer will act like a Developer
+Tester cannot only act like a Tester. A Tester has to think like a Developer but act and think like a Tester
+
+A Tester has to have a very strong functional knowledge
+if you click on My Account
+Register
+Login
+
+
+but it is the opposite with 
+Login
+Register
+------------------------------------------------------------------------
+
+how will I segregate what to test in a Manual way and what to test in Automation ??
+
+you as a tester identified 100 important functional areas of the application
+1. HomePage
+2. RegisterPage
+3. LoginPage
+4. ProductPage
+5. AddtoCartPage
+6. Payment
+7. Checkout
+
+should I automate all the scenarios of testing - 
+Manual testing gives you idea of the application
+Automation testing is done on top of Manual
+
+-------------------------------------------------------------------------------
+
+7th - Online
+8th - Online
+
+14th and 15th - Classroom
+21st and 22nd - Classroom
+28th and 29th - Classroom
+
+31st - I am flying to India
+
+4th and 5th - online
+
+11th and 12th - no class [I am getting married on 15th]
+
+18th and 19th - online [assignment] - subject to my availability
+25th and 26th - classroom
+everything after that will be classroom
+------------------------------------------------------------------------------------
+
+6:05 pm
+8:00 pm [this is the best time to learn new things]
+8:30 pm [ learn very less and we practice what we learnt]
+
+write a program to find the largest of 3 numbers - I will write this program
+WAP to find smallest of 4 numbers - this will be classroom practice
+
+
+Automation - Login Functionality
+Automate - Register Functionality
+
+April 30th
+May 7th
+
+3-4 groups
+--------------------------------------------------------------------------------------
+
+Git and GitHub
+Dinner
+Manual Testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

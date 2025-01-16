@@ -1,0 +1,21 @@
+git status - helps us to determine what is the status of the directory
+
+rm -rf .git - this command makes the git directory back to a local directory
+
+git init - this will make the local directory to a git directory
+
+how will you track your project files?
+you have to add them
+1. You can add all the files together (when we do for the 1st time)
+2. You can choose to add specific file(s)
+
+git add -A  [this will add all the files]
+git add --a [this will add all the files too]
+
+once everything is added, then you need to commit
+
+git commit -m "pushing the files for the first time"
+git remote add origin git@github.com:sarthakkumarpanda/LearningGitJan2025.git
+git push -u origin master
+
+git add .  [this command will only add the modified file(s)]

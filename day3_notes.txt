@@ -1,0 +1,28 @@
+Shell commands: -
+
+Command prompt / Terminal - this is known as command-line-interface.
+
+What is the purpose of this command prompt or terminal ??
+
+cmd (command prompt but it is user based)
+powershell (also a CLI but it is Admin privileges - that means all shell commands will work)
+
+A folder(Windows/MacBook) - is known as a Directory
+pwd (present working directory)
+
+mkdir FolderName
+mkdir F1, F2, F3, F4 [this is in powershell]
+mkdir F5 F6 F7 F8[this is cmd]
+rmdir foldername
+
+
+touch filename    command is used to create a new file
+cd ..             this goes back to the parent directory
+cd .              this is the current directory
+rm filename       stands for removing a file
+
+ls        listing basic directories and files
+ls -al    listing all files including hidden files
+ls -lart  listing all files with detailed information, sorted by modification time, in reverse order
+
+
